@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Edmun Louli</h1>
-<h3 align="center">I am a Computer Engineering student at York University</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmun4&label=Profile%20views&color=0e75b6&style=flat" alt="edmun4" /> </p>
 
+- Hi 👋, I'm **Edmun Louli**
+
 - 🌱 I’m currently learning **Web Development and Computer Engineering Fundamentals**
+
+- 🛠️ I am a Computer Engineering Student at **York University**
 
 - 📫 You can reach out to me at **eddylouli4@gmail.com**
 
