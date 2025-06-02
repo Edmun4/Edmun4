@@ -2,10 +2,10 @@
 
 - Hi 👋, I'm **Edmun Louli**
 
-- 🌱 I’m currently learning **Web Development and Computer Engineering Fundamentals**
-
 - 🛠️ I am a Computer Engineering Student at **York University**
 
+- 🌱 I’m currently learning **Web Development and Computer Engineering Fundamentals**
+  
 - 📫 You can reach out to me at **eddylouli4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
